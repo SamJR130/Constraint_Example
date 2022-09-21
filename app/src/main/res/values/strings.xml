@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Constraint Example 2 - SR</string>
+    <string name="we">We</string>
+    <string name="studio">Studio</string>
+    <string name="java">Java!</string>
+    <string name="android">Android</string>
+    <string name="and">And</string>
+    <string name="love">Love</string>
+</resources>
